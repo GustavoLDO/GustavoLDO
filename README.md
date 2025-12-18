@@ -80,19 +80,19 @@ With a multidisciplinary approach, I work on development for both web and mobile
   <tr>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
       </a>
     </td>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=ocean_dark&layout=compact" alt="Linguagens Mais Usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=react&layout=compact" alt="Linguagens Mais Usadas" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=ocean_dark" alt="GitHub Streak" />
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=GustavoLDO&theme=react&column=3&margin-w=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
       </a>
     </td>
   </tr>
