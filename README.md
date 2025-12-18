@@ -5,9 +5,8 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/6S3S66X.gif" alt="Solo Leveling Blue GIF" />
+  <img height="180" src="https://raw.githubusercontent.com/Mayccoll/Ghibli-Animations/master/Gifs/howl-moving-castle.gif" alt="Anime Blue Aura" />
 </div>
-
 
 ---
 
