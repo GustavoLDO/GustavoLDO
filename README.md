@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0099FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img height="180" src="https://media.tenor.com/79_uC-9mX3IAAAAC/solo-leveling-jin-woo.gif" />
+</div>
 ---
 
 ### 📖 Sobre Mim
@@ -77,9 +80,6 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 </p>
 
 
-<div align="center">
-  <img height="180" src="https://media.tenor.com/79_uC-9mX3IAAAAC/solo-leveling-jin-woo.gif" />
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=001524" width="100%" />
