@@ -16,47 +16,14 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológica
 
-<table align="center">
-  <tr>
-    <td align="center" width="150"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,python,php" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,django,laravel,react" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>DB Relacional</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>DB NoSQL</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,redis" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Ferramentas</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,spring,django,laravel&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=java,python,php,oracle,mysql,postgres,mongodb,redis&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
+</p>
 
 ---
 
