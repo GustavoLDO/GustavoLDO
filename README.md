@@ -76,9 +76,11 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ### 📊 Estatísticas de GitHub
 
-| 📈 Geral | 💻 Linguagens |
-| :---: | :---: |
-| [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/GustavoLDO) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=tokyonight&layout=compact)](https://github.com/GustavoLDO) |
+### 📊 Estatísticas de GitHub
+
+| 📈 Estatísticas Gerais | 🔥 Sequência (Streak) | 💻 Linguagens Mais Usadas |
+| :---: | :---: | :---: |
+| [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/GustavoLDO) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=vision-friendly-dark)](https://git.io/streak-stats) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=vision-friendly-dark&layout=compact)](https://github.com/GustavoLDO) |
 
 ---
 
