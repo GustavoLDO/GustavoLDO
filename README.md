@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzRoc3R3Z3R4bm9id3p4bm9id3p4bm9id3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v9G3NGByE9DxS/giphy.webp" alt="Solo Leveling Blue Aura" />
+  <img height="200" src="https://i.imgur.com/6S3S66X.gif" alt="Solo Leveling Blue GIF" />
 </div>
 
 
