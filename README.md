@@ -18,12 +18,28 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 ## 🛠️ Stack Tecnológica
 
+#### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,spring,django,laravel&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=java,python,php,oracle,mysql,postgres,mongodb,redis&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,php,spring,django,laravel&theme=dark" />
+</p>
+
+#### 🗄️ Bancos de Dados (Relacional & NoSQL)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite,mongodb,redis&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
 </p>
+
+#### 🧰 Ferramentas & Produtividade
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
 
 ---
 
@@ -33,12 +49,12 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
   <tr>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
       </a>
     </td>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=tokyonight&layout=compact" alt="Linguagens Mais Usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=vision-friendly-dark&layout=compact" alt="Linguagens Mais Usadas" />
       </a>
     </td>
   </tr>
@@ -46,7 +62,7 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
     <td colspan="2" align="center">
       <br>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLDO&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade Azul" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLDO&bg_color=000000&color=0099FF&line=0099FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade Azul" />
       </a>
     </td>
   </tr>
