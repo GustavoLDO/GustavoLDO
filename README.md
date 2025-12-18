@@ -78,7 +78,7 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzRoc3R3Z3R4bm9id3p4bm9id3p4bm9id3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v9G3NGByE9DxS/giphy.gif" />
+  <img height="180" src="https://media.tenor.com/79_uC-9mX3IAAAAC/solo-leveling-jin-woo.gif" />
 </div>
 
 
