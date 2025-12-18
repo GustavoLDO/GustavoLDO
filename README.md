@@ -30,7 +30,7 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 #### 🗄️ Bancos de Dados (Relacional & NoSQL)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
 </p>
 
@@ -41,7 +41,6 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 ---
 
----
 
 ### 📊 Estatísticas de GitHub
 
@@ -49,12 +48,12 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
   <tr>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&bg_color=000000&title_color=0099FF&text_color=FFFFFF&icon_color=0099FF&border_color=0099FF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
       </a>
     </td>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=vision-friendly-dark&layout=compact" alt="Linguagens Mais Usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&layout=compact&bg_color=000000&title_color=0099FF&text_color=FFFFFF&border_color=0099FF" alt="Linguagens Mais Usadas" />
       </a>
     </td>
   </tr>
