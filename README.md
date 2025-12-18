@@ -48,7 +48,7 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
   <tr>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&bg_color=000000&title_color=0099FF&text_color=FFFFFF&icon_color=0099FF&border_color=0099FF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+       <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&bg_color=000000&title_color=0099FF&text_color=FFFFFF&icon_color=0099FF&border_color=0099FF" alt="Estatísticas do GitHub" />
       </a>
     </td>
     <td>
