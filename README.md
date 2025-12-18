@@ -76,11 +76,27 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ### 📊 Estatísticas de GitHub
 
-### 📊 Estatísticas de GitHub
-
-| 📈 Estatísticas Gerais | 🔥 Sequência (Streak) | 💻 Linguagens Mais Usadas |
-| :---: | :---: | :---: |
-| [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/GustavoLDO) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=vision-friendly-dark)](https://git.io/streak-stats) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=vision-friendly-dark&layout=compact)](https://github.com/GustavoLDO) |
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/GustavoLDO">
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GustavoLDO">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=ocean_dark&layout=compact" alt="Linguagens Mais Usadas" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=ocean_dark" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
