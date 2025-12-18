@@ -18,12 +18,45 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+<table align="center">
+  <tr>
+    <td align="center" width="150"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,php" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,django,laravel,react" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DB Relacional</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,sqlite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DB NoSQL</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,redis" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
