@@ -76,4 +76,10 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 <a href="mailto:gugalemos103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+
+div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm5qZzRoc3R3Z3R4bm9id3p4bm9id3p4bm9id3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v9G3NGByE9DxS/giphy.gif" />
+</div>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=001524" width="100%" />
