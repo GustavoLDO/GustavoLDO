@@ -1,98 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0099FF" alt="Banner de Onda Azul" width="100%" />
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0099FF&width=500&lines=Hello,+I'm+Gustavo+Lemos" alt="Hello Typing SVG" />
-</h1>
-<p align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0099FF&width=435&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Gustavo%20Lemos&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&color=001524" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0099FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
 </p>
 
-I'm a Full Stack Developer in training at Fatec Praia Grande, driven by the challenge of transforming complex ideas into efficient, secure, and intuitive digital solutions.
-With a multidisciplinary approach, I work on development for both web and mobile platforms, constantly exploring new tools, frameworks, and methodologies to push the boundaries of what technology can deliver.
+---
 
-🔎 I'm passionate about using code to solve real-world problems, creating solutions that generate meaningful value for people and businesses.
+### 📖 Sobre Mim
 
-🚀 I enjoy technical challenges and I'm always looking for opportunities to grow, both as a developer and as a creative problem-solver in the tech ecosystem.**.  
+I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by the challenge of transforming complex ideas into efficient, secure, and intuitive digital solutions.
+
+* 🔎 Passionate about using code to solve real-world problems.
+* 🚀 Constantly exploring new tools, frameworks, and methodologies.
+* 💻 Developing solutions for Web and Mobile platforms.
 
 ---
 
+### 🛠️ Tecnologias & Ferramentas
 
-## 🛠️ Tecnologias & Ferramentas
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-### 🚀 **Frontend**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</div>
-
----
-
-### ⚙️ **Backend**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-</div>
-
----
-
-### 🧩 **Frameworks**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS"/>
-</div>
-
----
-
-### 🗄️ **Banco de Dados**
-
-#### 🧮 **Relacionais**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
-</div>
-
-#### 🧩 **NoSQL**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40" alt="Neo4j"/>
-</div>
-
----
-
-### 🧰 Ferramentas
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="50" height="50" alt="GitHub"/>
-</div>
-  
 ---
 
 ### 📊 Estatísticas de GitHub
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
       </a>
     </td>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=algolia&layout=compact" alt="Linguagens Mais Usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=tokyonight&layout=compact" alt="Linguagens Mais Usadas" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <br>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLDO&bg_color=000000&color=0070f3&line=0070f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade Azul" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLDO&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade Azul" />
       </a>
     </td>
   </tr>
@@ -100,24 +54,11 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ---
 
+### 🌐 Conecte-se Comigo
 
-## 🌐 Onde me Encontrar
+<p align="center">
+<a href="https://linkedin.com/in/gustavolemosoliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:gugalemos103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<div style="display: flex; gap: 15px; align-items: center;">
-
-<a href="https://linkedin.com/in/gustavolemosoliveira" style="text-decoration: none; border: 0;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40" alt="LinkedIn" style="border: 0;"/>
-</a>
- 
-<a href="https://github.com/GustavoInCode24" style="text-decoration: none; border: 0;">
-  <img src="https://img.shields.io/badge/GitHub-34495E?style=for-the-badge&logo=github&logoColor=white" width="100" height="40" alt="GitHub" style="border: 0;"/>
-</a>
-
-<a href="mailto:gugalemos103@gmail.com" style="text-decoration: none; border: 0;">
-  <img src="https://img.shields.io/badge/Email-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="40" alt="Email" style="border: 0;"/>
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0099FF" alt="Banner de Onda no Rodapé" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&color=001524" width="100%" />
