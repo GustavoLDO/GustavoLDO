@@ -48,12 +48,12 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
   <tr>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&bg_color=000000&title_color=00fbff&text_color=e1e1e1&icon_color=00fbff&border_color=00fbff&hide_title=false" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&bg_color=0d1117&title_color=0070f3&text_color=ffffff&icon_color=0070f3&border_color=0070f3&hide_title=false" alt="Estatísticas do GitHub" />
       </a>
     </td>
     <td>
       <a href="https://github.com/GustavoLDO">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&layout=compact&bg_color=000000&title_color=00fbff&text_color=e1e1e1&border_color=00fbff" alt="Linguagens Mais Usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&layout=compact&bg_color=0d1117&title_color=0070f3&text_color=ffffff&border_color=0070f3" alt="Linguagens Mais Usadas" />
       </a>
     </td>
   </tr>
