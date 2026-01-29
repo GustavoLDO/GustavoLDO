@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Gustavo%20Lemos&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&color=001524" width="100%" />
+<img src="https://github.com/user-attachments/assets/167c4d3e-0985-45fb-a7cf-45609e8b0163" width="100%" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0099FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
