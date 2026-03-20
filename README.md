@@ -39,7 +39,7 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 #### 🧰 Ferramentas, OS & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,idea&theme=dark" />
 </p>
 
 ---
