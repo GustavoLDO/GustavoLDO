@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react&theme=dark" />
 </p>
 
 #### ⚙️ Backend & Frameworks
