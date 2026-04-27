@@ -32,10 +32,9 @@ I'm a **Full Stack Developer** in training at **Fatec Praia Grande**, driven by 
 </p>
 
 #### 🗄️ Bancos de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
+</div>
 
 #### 🧰 Ferramentas, OS & IDEs
 <p align="left">
